@@ -1,6 +1,0 @@
-
-# dependencies
-/node_modules
-
-# database
-/app_db.sqlite3
